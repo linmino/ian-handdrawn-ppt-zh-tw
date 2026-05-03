@@ -67,8 +67,8 @@ Do not ask when:
 When you need to ask, frame the default and the missing choice:
 
 ```text
-我可以先按“中文技术课件，面向有基础的新手，10 页左右”处理。
-但有一个决定性信息会影响结构：这套 PPT 是用于教学、销售说明，还是公开分享？
+我可以先按“中文技術課件，面向有基礎的新手，10 頁左右”處理。
+但有一個決定性資訊會影響結構：這套 PPT 是用於教學、銷售說明，還是公開分享？
 ```
 
 ## Source Sufficiency Levels

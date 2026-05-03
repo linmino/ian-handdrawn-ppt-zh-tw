@@ -1,6 +1,6 @@
 ---
 name: ian-handdrawn-ppt
-description: Create final Chinese handdrawn technical article/PPT-style page images from articles, Markdown, PDFs, DOCX files, existing slide decks, course notes, scripts, outlines, or rough ideas. Use when the user asks to turn content into PPT/PPTX/slides/courseware/课件/演示稿/配图/效果图 in a refined Chinese handdrawn technical explanation style, to plan such pages, to choose page layouts from semantic content, or to generate complete image-model pages with Chinese text baked into the final visual. Default article outputs use 21:9 covers and 16:9 body illustrations.
+description: Create final Chinese handdrawn technical article/PPT-style page images from articles, Markdown, PDFs, DOCX files, existing slide decks, course notes, scripts, outlines, or rough ideas. Use when the user asks to turn content into PPT/PPTX/slides/courseware/課件/演示稿/配圖/效果圖 in a refined Chinese handdrawn technical explanation style, to plan such pages, to choose page layouts from semantic content, or to generate complete image-model pages with Chinese text baked into the final visual. Default article outputs use 21:9 covers and 16:9 body illustrations.
 ---
 
 # Ian Handdrawn PPT
@@ -84,12 +84,12 @@ Do not use legacy bordered PPT reference images unless the user explicitly asks 
 
 Use these defaults unless the user says otherwise:
 
-- Language: Simplified Chinese.
-- Audience: Chinese learners with some technical curiosity but not necessarily expert depth.
+- Language: Traditional Chinese.
+- Audience: Traditional Chinese readers with some technical curiosity but not necessarily expert depth.
 - Deck length: 8-12 slides for an article, 15-30 slides for a course module, 5-8 slides for a short idea.
 - Output: final PNG page images plus a contact sheet and short slide blueprint summary.
 - Blog/article visual split: cover image is 21:9; body illustrations are 16:9.
-- Style: refined near-white Chinese handdrawn technical article/PPT illustration V6.
+- Style: refined near-white Traditional Chinese handdrawn technical article/PPT illustration V6.
 
 ## Final Response
 

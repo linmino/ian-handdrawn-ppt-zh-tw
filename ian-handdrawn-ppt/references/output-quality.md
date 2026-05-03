@@ -18,7 +18,7 @@ Include:
 
 ### Final Image Deck
 
-Use by default when the user asks for PPT/PPTX/slides/courseware/配图/效果图 as finished visual page images.
+Use by default when the user asks for PPT/PPTX/slides/courseware/配圖/效果圖 as finished visual page images.
 
 PPT/PPTX wording alone does not mean editable output. Treat it as PPT-style final PNG page images. Editable PPTX, image-based PPTX, PDF export, and object-level presentation modification are out of scope for this skill.
 
