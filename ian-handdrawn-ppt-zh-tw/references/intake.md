@@ -33,7 +33,7 @@ From the source, identify:
 
 Use these defaults when safe:
 
-- Audience: Chinese learners with moderate technical familiarity
+- Audience: Traditional Chinese readers with moderate technical familiarity
 - Scenario: teaching or public explanation
 - Length: 8-12 slides for one article; 15-30 for a course module
 - Depth: practical conceptual explanation, not academic proof
@@ -67,7 +67,7 @@ Do not ask when:
 When you need to ask, frame the default and the missing choice:
 
 ```text
-我可以先按“中文技術課件，面向有基礎的新手，10 頁左右”處理。
+我可以先按“繁體中文技術教材，對象是已有基礎的新手，10 頁左右”處理。
 但有一個決定性資訊會影響結構：這套 PPT 是用於教學、銷售說明，還是公開分享？
 ```
 
