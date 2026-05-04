@@ -1,5 +1,7 @@
-# Ian Handdrawn PPT
+# Ian Handdrawn PPT（繁體中文版）
 
+> 這是 `helloianneo/ian-handdrawn-ppt` 的繁體中文版 fork。
+>
 > 把文章、課程筆記、提綱或已有材料，變成一套繁體中文手繪技術解釋風格的 PPT-style 頁面圖。
 >
 > 21:9 封面 | 16:9 正文配圖 | PNG 輸出 | 適合文章配圖、課程課件、知識卡片和技術概念解釋
@@ -7,6 +9,8 @@
 ---
 
 ## 這個倉庫是什麼
+
+這個倉庫是 `helloianneo/ian-handdrawn-ppt` 的**繁體中文版 fork**。
 
 Ian Handdrawn PPT 是一個 Codex Skill，用來指導 AI Agent 把內容整理成**繁體中文手繪技術解釋圖**。
 
